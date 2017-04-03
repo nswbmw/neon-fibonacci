@@ -1,0 +1,19 @@
+{
+  "name": "neon-fibonacci",
+  "version": "0.1.0",
+  "description": "a fibonacci demo of Neon",
+  "private": true,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/neon-fibonacci"
+  },
+  "author": "nswbmw",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.1.13"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
